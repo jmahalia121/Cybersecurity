@@ -33,8 +33,7 @@ This repository highlights the key projects I completed during my 3-month intern
   * Remediation Guidelines
 
 **Status**: Completed ✅
-[View Project Report](https://github.com/ArnabNath11/Cybersecurity_Intership_infotact_solution/blob/main/Infotact-Internship-Projects/Project%202%20-%20Web%20Application%20Penetration%20Testing/Report/web%20application%20project%202%20final%20report.pdf)
-
+[View Project Report](https://github.com/jmahalia121/Cybersecurity/blob/main/Infotact-Cybersecurity-Internship-/Project%202%20-%20Web%20Application%20Penetration%20Testing/Report/project%202%20report.pdf)
 
 ---
 
